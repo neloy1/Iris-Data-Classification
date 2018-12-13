@@ -1,1 +1,2 @@
 # Iris-Data-Classification
+I've used data from sklearn.datasets. It's a classification problem. First, we fit the whole data and then predict some random data that is not in our collected data. As we do not know the predicted actual answer, so we can not be sure if the predicted answer is true or false. However, we can calculate the accuracy of our model. Secondly, we split our data into train data and test data. Then predict test data and calculate the accuracy.
